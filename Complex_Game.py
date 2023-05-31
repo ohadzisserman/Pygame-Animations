@@ -8,7 +8,7 @@ white = (255,255,255)
 gray = (80,80,80)
 #אורך ורוחב המסך, מעדיף שיהיה מספר שמתחלק יפה
 W = 360*3
-H = 360*3
+H = 360*2
 GRID = False
 GRID_FUNC = False
 SCREEN = pygame.display.set_mode((W,H))
